@@ -6,7 +6,7 @@ import torch
 import torchvision
 from torchvision.datasets import CIFAR10
 
-import eecs598
+# import eecs598
 
 
 def _extract_tensors(dset, num=None, x_dtype=torch.float32):
